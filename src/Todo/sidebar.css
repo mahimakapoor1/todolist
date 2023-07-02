@@ -1,0 +1,19 @@
+
+   .sidebar ul {
+    list-style: none;
+    padding: 10px;
+    margin-top: 80px;
+  }
+  
+  .sidebar li {
+    cursor: pointer;
+  }
+  
+  .sidebar li h2 {
+    margin:0;
+    padding-bottom: 70px;
+    transition: font-size 0.3s ease;
+  }
+  .sidebar li h2:hover{
+    font-size: 50px;
+  }
